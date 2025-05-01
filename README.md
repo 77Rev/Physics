@@ -11,5 +11,5 @@ It creates an interactive plot, showing the magnetic field around the wire.
 
 It is a very simple code for creating chaotic maps.
 The program uses scienceplots, which standard anaconda based jupyter notebook installation usually lack.
-You can remove it easily, but if you want to use it, just acrivate your environment
+You can remove it easily, but if you want to use it, just activate your environment
 and run "pip install SciencePlots". It should work afterwards.
